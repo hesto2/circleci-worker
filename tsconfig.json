@@ -1,0 +1,7 @@
+{
+  "extends": "./node_modules/@hesto2/config/tsconfig.json",
+  "include": ["src/**/*", "src/*"],
+  "compilerOptions": {
+    "outDir": "./dist"
+  }
+}
